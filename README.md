@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes ANN and CNN training in Google Collab for Sign Language Digits Dataset
+The repository includes ANN and CNN training in Google Collab for Sign Language Digits Dataset.
   
 <!-- GETTING STARTED -->
 ## Getting Started
