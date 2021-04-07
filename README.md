@@ -1,12 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="70" height="70">
-  </a>
-  <h3 align="center">ANN and CNN training</h3>
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes ANN and CNN training in Google Collab for Sign Language Digits Dataset
