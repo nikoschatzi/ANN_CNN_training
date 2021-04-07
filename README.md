@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes ANN and CNN training in Google Collab for Sign Language Digits Dataset. ANN validation accuracy is 67% while CNN validation accuracy is 90%.
+The repository includes ANN and CNN training in Google Collab for Sign Language Digits Dataset. ANN validation accuracy is 67% while CNN validation accuracy is 90%. To avoid overfitting select an appropriate number of epochs.
   
 <!-- GETTING STARTED -->
 ## Getting Started
